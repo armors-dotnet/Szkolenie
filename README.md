@@ -1,0 +1,2 @@
+# Szkolenie
+Szkolenie z GitHub
